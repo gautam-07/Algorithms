@@ -2,9 +2,12 @@
 
 <pre>
 <h1 align="center"> <a href="https://en.wikipedia.org/wiki/Algorithm">Algorithms</a></h1>
-<p>One of the things that I learned when I was studying DSA(Data Structures And Algorithms) was that it is not beneficial to just study the Algorithms and learn how they are implemented. Instead try to implement them on your own</p>
+One of the things that I learned when I was studying DSA(Data Structures And Algorithms) 
+was that it is not beneficial to just study the Algorithms and learn how they are implemented. 
+Instead try to implement them on your own.
 
-<p>So I decided, the only way to understand the algorithm I have to implement it by myself. So, this repository includes all the algorithms that I have implemented using C/C++</p>
+So I decided, the only way to understand the algorithm I have to implement it by myself. 
+So, this repository includes all the algorithms that I have implemented using C/C++.
 </pre>
 
 <br>
