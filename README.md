@@ -11,10 +11,6 @@ So, this repository includes all the algorithms that I have implemented using C/
 </pre>
 
 <br>
-<pre>
-<h2 align="center">Searching Algorithms</h2>
-</pre>
-<br>
 
 <pre>
 <h2 align="center">Sorting Algorithms</h2>
